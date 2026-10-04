@@ -35,6 +35,7 @@ body{
     text-decoration: none;
     display: inline-block;
     transition: 0.2s;
+    text-shadow: 0 0 10px white;
 }
 
 .links a:hover {
@@ -49,4 +50,8 @@ body{
     text-align: center;
     color: rgba(255, 255, 255, 0.5);
     font-size: 14px;
+}
+
+.bio {
+    text-shadow: 0 0 2px rgb(103, 240, 103);
 }
